@@ -1,0 +1,10 @@
+name: pdap
+title:
+username: dayoonkwon
+account: dayoonkwon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15089681
+bundleId: 10631695
+url: https://dayoonkwon.shinyapps.io/pdap/
+version: 1
